@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<table border>
-		<caption align = top>DAFTAR MAHASISWA UNBO</caption>
+		<caption align = top>DAFTAR MAHASISWA UIB</caption>
 		<tr>
 			<th>No</th>
 			<th>Nama</th>
